@@ -1,0 +1,13 @@
+{
+  "name": "techno-fab-industries",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Techno Fab Industries — custom metal manufacturing, Nashik",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "check": "node --check public/app.js"
+  }
+}

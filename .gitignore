@@ -1,0 +1,9 @@
+node_modules/
+dist/
+tmp/
+reference-*.html
+*.tar.gz
+*.log
+.env*
+output/
+.openai/
